@@ -47,20 +47,6 @@ main li {
   padding: 0 15px;
 }
 
-section {
-  margin-top: 30px;
-  margin-left: 60px;
-}
-
-section img {
-  float: left;
-  clear: left;
-}
-
-section div {
-  overflow: scroll;
-}
-
 footer {
   height: 100px;
   width: 1080px;
