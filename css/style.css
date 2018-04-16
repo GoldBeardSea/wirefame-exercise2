@@ -37,14 +37,59 @@ nav li {
   margin-top: 30px;
 }
 
-div{
+#groupedimg {
   display: inline-block;
   margin-top: 30px;
+  margin-left: 45px;
+  margin-bottom: 30px;
 }
 
 main li {
   display:inline-block;
   padding: 0 15px;
+}
+
+#imagesection {
+  margin-bottom: 30px;
+  display: inline-block;
+}
+
+section img {
+  margin-left: 60px;
+}
+
+#headline {
+  text-align: top;
+  margin-top: 0px;
+  float: left;
+  width: 100%;
+  text-align: left;
+}
+
+#textsection {
+  position: relative;
+  display: inline-block;
+  vertical-align: top;  
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 30px;
+  width: 480px;
+  height: 400px;
+  overflow: scroll;
+}
+
+button {
+  position: sticky;
+  background-color: #ddd;
+  color: black;
+  font-size: 1em;
+  margin-top: 0px;
+  margin-left: -460px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 35px;
+  padding-left: 35px;
+  box-sizing: border-box;
 }
 
 footer {
