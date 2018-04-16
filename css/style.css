@@ -9,15 +9,17 @@ nav {
 
 nav img {
   display: inline-block;
+  margin: 15px;
+  margin-left: 60px;
 }
 
 .navi {
   display: inline-block;
+  vertical-align: top;
 }
 
 nav li {
   display: inline-block;
-  text-align: center;
   line-height: 70px;
-  
+
 }
