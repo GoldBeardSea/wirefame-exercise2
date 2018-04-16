@@ -4,6 +4,10 @@ header {
   width: 1080px;
 }
 
+body {
+  width: 1080px;
+}
+
 nav {
   height: 70px;
 }
@@ -31,4 +35,34 @@ nav li {
   margin-left: 60px;
   margin-right: 60px;
   margin-top: 30px;
+}
+
+div{
+  display: inline-block;
+  margin-top: 30px;
+}
+
+main li {
+  display:inline-block;
+  padding: 0 15px;
+}
+
+section {
+  margin-top: 30px;
+  margin-left: 60px;
+}
+
+section img {
+  float: left;
+  clear: left;
+}
+
+section div {
+  overflow: scroll;
+}
+
+footer {
+  height: 100px;
+  width: 1080px;
+  background-color: #444;
 }
